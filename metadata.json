@@ -1,0 +1,10 @@
+{
+  "name": "Copy of CipherCalc Stealth",
+  "short_name": "CipherCalc",
+  "description": "Privacy-focused scientific calculator with integrated memory encryption layers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "theme_color": "#0B0E14",
+  "background_color": "#0B0E14"
+}
